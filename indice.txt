@@ -1,1 +1,5 @@
 Estos son los cambios del ejercicio 7.
+
+
+Estos son todos los cambios generados en el reposotiro 
+de manera que solo necesitan ser aceptados
